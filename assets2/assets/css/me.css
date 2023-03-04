@@ -1,0 +1,45 @@
+.footer {
+	background-color: #222;
+	padding: 20px;
+	margin-top: 20px;
+}
+
+.footer-p {
+	margin-top: 40px;
+	margin-left: 10px;
+}
+
+.img_candidat {
+	height: 150px;
+}
+
+.p_nama {
+	font: 15px Viga;
+}
+
+
+
+@media (min-width: 992px) {
+.footer {
+		background-color: #222;
+		padding-bottom: 40px;
+		margin-top: 10px;
+	}
+
+	.footer-p {
+		margin-left: 100px;
+	}
+
+.viga_font {
+	margin-top: 20px;
+    font: 15px Viga;
+}
+.img_candidat {
+	height: 250px;
+}
+
+.p_nama {
+	font: 15px Viga;
+}
+
+}
